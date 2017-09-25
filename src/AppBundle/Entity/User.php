@@ -1,3 +1,5 @@
+// getters and setters to be created!
+
 // src/AppBundle/Entity/User.php
 namespace AppBundle\Entity;
 
