@@ -1,4 +1,5 @@
-// getters and setters to be created!
+// 1. getters and setters to be created!
+// 2. To create db table run: `php bin/console doctrine:schema:update --force`
 
 // src/AppBundle/Entity/User.php
 namespace AppBundle\Entity;
